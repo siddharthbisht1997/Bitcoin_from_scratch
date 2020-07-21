@@ -1,2 +1,2 @@
-# Bitcoin_from_scratch
+# Bitcoin
 This repository contains the notes from the Book, Bitcoin from Scratch
